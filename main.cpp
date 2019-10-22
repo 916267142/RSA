@@ -73,6 +73,9 @@ only need to change the "RandomSeed"
 */
 int main()
 {
+    cout << "-----------------------" << endl;
+    cout << "Input the random seed: ";
+    cin >> RandomSeed;
     Generator generator;
     char plaintext[3];
     ll chipertext;
