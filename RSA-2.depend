@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1571668068 source:c:\users\admin-test\desktop\rsa-2\main.cpp
+	<iostream>
+	"MathTool.h"
+
+1571661904 source:c:\users\admin-test\desktop\rsa-2\math.cpp
+	"Math.h"
+
+1571662562 c:\users\admin-test\desktop\rsa-2\math.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1571661904 c:\users\admin-test\desktop\rsa-2\math.cpp
+	"Math.h"
+
+1571666441 c:\users\admin-test\desktop\rsa-2\mathtool.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1571667004 source:c:\users\admin-test\desktop\rsa-2\mathtool.cpp
+	"MathTool.h"
+
+1571715702 source:c:\users\administrator\desktop\rsa\main.cpp
+	<iostream>
+	<fstream>
+	"MathTool.h"
+
+1571711397 c:\users\administrator\desktop\rsa\mathtool.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1571711855 source:c:\users\administrator\desktop\rsa\mathtool.cpp
+	"MathTool.h"
+
+1571711855 source:c:\users\admin-test\desktop\rsa\mathtool.cpp
+	"MathTool.h"
+
+1571734952 c:\users\admin-test\desktop\rsa\mathtool.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1571734380 source:c:\users\admin-test\desktop\rsa\main.cpp
+	<iostream>
+	<fstream>
+	"MathTool.h"
+

@@ -1,0 +1,6 @@
+My name is Kang Ning.
+I'am come from China.
+Hello World.
+for(int i = 0; i < 100; ++i) {
+	cout << !ÄãºÃ°¡¡²!<< endl;
+}123
